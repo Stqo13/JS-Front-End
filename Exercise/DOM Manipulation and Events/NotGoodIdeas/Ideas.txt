@@ -1,0 +1,35 @@
+let contentElement = document.getElementById('content');
+    
+    // let sectionOneDivElement = document.createElement('div');
+    // let sectionTwoDivElement = document.createElement('div');
+    // let sectionThreeDivElement = document.createElement('div');
+    // let sectionFourDivElement = document.createElement('div');
+    
+    // let sections = [sectionOneDivElement, sectionTwoDivElement, sectionThreeDivElement, sectionFourDivElement];
+    
+    // let paragraphOneElement = document.createElement('p');
+    // let paragraphTwoElement = document.createElement('p');
+    // let paragraphThreeElement = document.createElement('p');
+    // let paragraphFourElement = document.createElement('p');
+    
+    // paragraphOneElement.textContent = words[0];
+    // paragraphTwoElement.textContent = words[1];
+    // paragraphThreeElement.textContent = words[2];
+    // paragraphFourElement.textContent = words[3];
+    
+    // let paragraphs = [paragraphOneElement, paragraphTwoElement, paragraphThreeElement, paragraphFourElement];
+    // paragraphs.forEach(paragraphElement => paragraphElement.style.display = 'none');
+    
+    // sectionOneDivElement.appendChild(paragraphOneElement);
+    // sectionTwoDivElement.appendChild(paragraphTwoElement);
+    // sectionThreeDivElement.appendChild(paragraphThreeElement);
+    // sectionFourDivElement.appendChild(paragraphFourElement);
+    
+    // contentElement.appendChild(sectionOneDivElement);
+    // contentElement.appendChild(sectionTwoDivElement);
+    // contentElement.appendChild(sectionThreeDivElement);
+    // contentElement.appendChild(sectionFourDivElement);
+    
+    // sections.forEach((sectionElement, index) => sectionElement.addEventListener('click', (event) => {
+    //     paragraphs[index].style.display = 'block';
+    // }));
